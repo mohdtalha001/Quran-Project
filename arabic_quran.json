@@ -1,0 +1,52 @@
+{
+  "data": {
+    "surahs": [
+      {
+        "number": 1,
+        "name": "سُورَةُ الْفَاتِحَةِ",
+        "englishName": "Al-Faatiha",
+        "ayahs": [
+          { "numberInSurah": 1, "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ" },
+          { "numberInSurah": 2, "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ" },
+          { "numberInSurah": 3, "text": "الرَّحْمَٰنِ الرَّحِيمِ" },
+          { "numberInSurah": 4, "text": "مَالِكِ يَوْمِ الدِّينِ" },
+          { "numberInSurah": 5, "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ" },
+          { "numberInSurah": 6, "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ" },
+          { "numberInSurah": 7, "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ" }
+        ]
+      },
+      {
+        "number": 2,
+        "name": "سُورَةُ الْبَقَرَةِ",
+        "englishName": "Al-Baqara",
+        "ayahs": [
+          { "numberInSurah": 1, "text": "الم" },
+          { "numberInSurah": 2, "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ" },
+          { "numberInSurah": 3, "text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ" }
+        ]
+      },
+      {
+        "number": 36,
+        "name": "سُورَةُ يٰسٓ",
+        "englishName": "Yaseen",
+        "ayahs": [
+          { "numberInSurah": 1, "text": "يس" },
+          { "numberInSurah": 2, "text": "وَالْقُرْآنِ الْحَكِيمِ" },
+          { "numberInSurah": 3, "text": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ" },
+          { "numberInSurah": 4, "text": "عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ" }
+        ]
+      },
+      {
+        "number": 112,
+        "name": "سُورَةُ الإِخْلَاصِ",
+        "englishName": "Al-Ikhlaas",
+        "ayahs": [
+          { "numberInSurah": 1, "text": "قُلْ هُوَ اللَّهُ أَحَدٌ" },
+          { "numberInSurah": 2, "text": "اللَّهُ الصَّمَدُ" },
+          { "numberInSurah": 3, "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ" },
+          { "numberInSurah": 4, "text": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ" }
+        ]
+      }
+    ]
+  }
+}
